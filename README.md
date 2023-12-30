@@ -1,4 +1,4 @@
-#Criminal face detection
+# Criminal face detection
 This Real time criminal identification 
 system based on face recognition works with a fully automated facial recognition system.
 feature-based cascade classifier and OpenCV LBPH (Local Binary Pattern Histograms). 
